@@ -9,7 +9,7 @@ Self-generated sales dataset for a fictional fashion boutique. Good for practici
 
 2. Mock Marketing Dashboard
 
-Self-generated marketing dataset ,good for practicing campaign performance analysis, metric tracking, and building simple dashboards. 📂 marketing/mock-marketing-dashboard/
+Self-generated marketing dataset ,good for practicing campaign performance analysis, metric tracking, and building simple dashboards. 📂 [mock-marketing-dashboard.xlsx](./marketing)
 
 3. Telco Customer Churn
 
