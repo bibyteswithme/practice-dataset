@@ -13,6 +13,6 @@ Self-generated marketing dataset ,good for practicing campaign performance analy
 
 3. Telco Customer Churn
 
-Real-world telecom dataset used in my churn EDA project — good for practicing churn analysis, segmentation, and distributions. 🔗 Kaggle source
+Real-world telecom dataset used in my churn EDA project , good for practicing churn analysis, segmentation, and distributions. 🔗 Kaggle source
 
 More datasets added over time -- follow @bibyteswithme for updates.
